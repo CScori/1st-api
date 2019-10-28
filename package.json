@@ -1,0 +1,23 @@
+{
+  "name": "1st-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CScori/1st-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CScori/1st-api/issues"
+  },
+  "homepage": "https://github.com/CScori/1st-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
